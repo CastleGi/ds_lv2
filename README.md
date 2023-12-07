@@ -40,4 +40,8 @@
 <b>StatsModels</b>: https://www.statsmodels.org/stable/index.html <br>
 <br>
 
+---------
+# 압축 비번
+
+qwer4321
 
